@@ -1,0 +1,23 @@
+html {
+  font-family: sans-serif;  
+}
+
+body {
+  background: #003366;
+  height: 100%;
+}
+
+/* custom classes */
+
+.red {
+  color: #dd0000;
+}
+
+.white {
+  color: #ffffff;
+}
+
+.blue-bg {
+  background: #003366;
+}
+
