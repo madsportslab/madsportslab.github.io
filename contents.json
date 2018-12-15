@@ -2,21 +2,18 @@
   "articles": [
     {
       "title": "Markelle Fultz and the Process",
-      "source": "markelle.md",
-      "created": "Dec 8, 2018 Tue 22:30",
-      "image": "http://www.theintell.com/storyimage/PA/20171029/SPORTS/171028116/AR/0/AR-171028116.jpg&MaxW=500"
+      "path": "markelle.md",
+      "created": "Dec 8, 2018 Tue 22:30"
     },
     {
       "title": "Testing",
-      "source": "test.md",
-      "created": "Nov 18, 2018 Wed 11:09",
-      "image": "http://dailythunder.com/wp-content/uploads/2018/12/D21F212A-FA87-4562-A771-1A4DE7601C87.jpeg"
+      "path": "test.md",
+      "created": "Nov 18, 2018 Wed 11:09"
     },
     {
       "title": "Hello World Bumpkins",
-      "source": "hello-world-bumpkins.md",
-      "created": "Oct 1, 2018 03:45",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/12/Robinhood-Checking-and-savings.png?w=990&crop=1"
+      "path": "hello-world-bumpkins.md",
+      "created": "Oct 1, 2018 03:45"
     }
   ]
   
