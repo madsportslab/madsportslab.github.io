@@ -1,5 +1,5 @@
 # Markelle Fultz and the Process
-Dec 8, 2018, Tue 20:23
+_Dec 8, 2018, Tue 20:23_
 
 The Philadelphia 76ers traded their 3rd pick and a future first round pick in the 2016 NBA draft to the Boston Celtics for the #1 draft pick.  With the #1 draft pick, Philadelphia drafted Markelle Fultz.  Fultz played a single year at Washington University averaging 23.2 points a game, he supposedly had a pure shot and the ability to score which would strongly complement Embiid and Simmons.  During Fultz's first year in the NBA, in the tradition of the Philadelphia 76ers, a shoulder issue sidelined him for most of the season, he would return close to the playoffs and not do anything significant.
 
