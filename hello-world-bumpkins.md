@@ -1,6 +1,3 @@
-# Hello World Bumpkins
-_Oct 15, 2018 Fri 02:09_
-
 royce what do you think?
 
 team | wins | losses
