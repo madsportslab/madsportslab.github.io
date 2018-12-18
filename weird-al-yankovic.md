@@ -1,1 +1,0 @@
-smells like teen spirit
