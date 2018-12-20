@@ -1,0 +1,1 @@
+the broken leg was a pretty serious injury, but paul george has healed over the course of the past year and half and is just now starting to show his old form again.
