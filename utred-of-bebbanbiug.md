@@ -1,1 +1,0 @@
-fucking nasty cnut
