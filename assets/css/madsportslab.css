@@ -1,10 +1,20 @@
 html {
-  font-family: sans-serif;  
+  font-family: sans-serif;
 }
 
-body {
-  //background: #003366;
-  height: 100%;
+h1, h2, h3, h4, h5, h6 {
+  text-decoration: none;
+  font-weight: 400;
+}
+
+main {
+  margin-top: 40px;
+}
+
+p {
+  //overflow: hidden;
+  //text-overflow: ellipsis;
+  //white-space: pre-line;
 }
 
 /* custom classes */
@@ -18,7 +28,11 @@ body {
 }
 
 .blue {
-  color: #003366;
+  color: #336699;
+}
+
+.light-blue {
+  color: #0181ba;
 }
 
 .white-bg {
@@ -29,3 +43,21 @@ body {
   background: #003366;
 }
 
+.light-blue-bg {
+  background: #0181ba;
+}
+
+/* bootstrap overrides */
+
+.card {
+  //max-height: 400px;
+  //overflow: hidden;
+  //text-overflow: ellipsis;
+}
+
+.card-text {
+  //min-height: 300px;
+  //text-overflow: ellipsis;
+  //overflow: hidden;
+  //white-space: pre-line;
+}
