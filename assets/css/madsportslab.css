@@ -11,16 +11,10 @@ main {
   margin-top: 40px;
 }
 
-p {
-  //overflow: hidden;
-  //text-overflow: ellipsis;
-  //white-space: pre-line;
-}
-
 /* custom classes */
 
 .red {
-  color: #dd0000;
+  color: #c9082a;
 }
 
 .white {
@@ -28,23 +22,22 @@ p {
 }
 
 .blue {
-  color: #336699;
+  color: #17408b;
 }
 
-.light-blue {
+.lightblue {
   color: #0181ba;
 }
 
-.white-bg {
+.whitebg {
   background: #ffffff;
 }
 
-.bluebg {
-  //background: #003366;
-  background: #17408B;
+.bluebg {  
+  background: #17408b;
 }
 
-.light-blue-bg {
+.lightbluebg {
   background: #0181ba;
 }
 
