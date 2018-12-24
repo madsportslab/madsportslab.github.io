@@ -8,4 +8,4 @@ what i heard from these mofo's is that:
 
 what gives with this stuff man?
 
-you know, i don't nkow
+you know, i don't know
