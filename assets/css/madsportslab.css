@@ -11,6 +11,10 @@ main {
   margin-top: 40px;
 }
 
+a, a:hover, a:link, a:visited {
+  text-decoration: none;
+}
+
 /* custom classes */
 
 .red {
