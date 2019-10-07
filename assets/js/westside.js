@@ -280,12 +280,12 @@ function addArticle() {
     path: fName(t),
     created: Date.now()
   }
-
+/*
   octokit.authenticate({
     type: "token",
     token: document.getElementById("auth-token").value
   });
-
+*/
   octokit.repos.createFile({
     owner: GH_OWNER,
     repo: GH_REPO,
