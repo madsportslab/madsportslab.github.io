@@ -583,6 +583,21 @@ function aboutPage() {
 } // aboutPage
 
 
+function getStartedPage() {
+
+  var editor    = document.getElementById("editor");
+  var dashboard = document.getElementById("dashboard");
+  var started   = document.getElementById("getstarted");
+  var about     = document.getElementById("about");
+
+  editor.setAttribute("class", "container d-none");
+  dashboard.setAttribute("class", "container d-none");
+  started.setAttribute("class", "container");
+  about.setAttribute("class", "container d-none");
+  
+} // getStartedPage
+
+
 function routes() {
 
   var hash = window.location.hash.substr(1).toLowerCase();
@@ -607,7 +622,7 @@ function routes() {
     aboutPage();
   } else {
     history.pushState("", document.title, window.location.pathname + window.location.hash);
-    homePage();
+    getStartedPage();
   }
 
 } // routes
